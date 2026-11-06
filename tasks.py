@@ -1,4 +1,4 @@
-"""
+
 # count charaters
 #with using built in function
 a = "hello world"
